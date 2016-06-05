@@ -3,6 +3,17 @@ body {
 	padding:0;
 }
 #container {
-	width:950px;
-	margin:0,auto;
+    margin:0 auto;
+    width:950px;
+    background-color:#ffa800;
+    min-height:900px;
+}
+footer {
+    font-family:Arial;
+    font-size:1em;
+    font-weight:bold;
+    text-align:center;
+    /*background-color:#eb8d1c;*/
+    background-color:rgba(235,141,28,0.7);
+    padding:8px;
 }
