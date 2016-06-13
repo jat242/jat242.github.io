@@ -1,14 +1,9 @@
 body {
 	margin:0;
 	padding:0;
-    background-image:url("/images/background.JPG");
+    background-image:url("/images/background2.JPG");
     background-size:cover;
     background-repeat:repeat-y;
-}
-#container {
-    margin:0 auto;
-    width:950px;
-    min-height:900px;
 }
 footer {
     font-family:Arial;
@@ -16,9 +11,7 @@ footer {
     font-weight:bold;
     text-align:center;
     /*background-color:#eb8d1c;*/
-    background-color:rgba(235,141,28,0.7);
+    background-color:#696969;
     padding:8px;
-}
-header{
-	background-color:red;
+	color:white;
 }
