@@ -1,9 +1,9 @@
 body {
 	margin:0;
 	padding:0;
-    background-image:url("/images/metalmesh.JPG");
-    background-size:cover;
-    background-repeat:repeat-y;
+    background-image:url("/images/metalmesh.JPG") ! important;
+    background-size:cover ! important;
+    background-repeat:repeat-y ! important;
 }
 footer {
     font-family:Arial;
