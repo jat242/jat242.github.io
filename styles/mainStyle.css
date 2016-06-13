@@ -1,9 +1,10 @@
 body {
 	margin:0;
 	padding:0;
-    background-image:url("/images/metalmesh.JPG") ! important;
-    background-size:cover ! important;
-    background-repeat:repeat-y ! important;
+/*    background-image:url("../images/metalmesh.jpg");
+    background-size:cover;
+    background-repeat:repeat-y; */
+	background-color:#708090;
 }
 footer {
     font-family:Arial;
@@ -14,4 +15,16 @@ footer {
     background-color:#696969;
     padding:8px;
 	color:white;
+}
+.content{
+	background-color:#A9A9A9;
+	border-radius:8px;
+	border:solid black 1px;
+	border-color:black;
+}
+#content{
+	background-color:#A9A9A9;
+	border-radius:8px;
+	border:solid black 1px;
+	border-color:black;
 }
